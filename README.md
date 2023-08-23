@@ -1,2 +1,2 @@
 # vacinaap
-Repositório do projeto da disciplina de Análise e Desenvolvimento de Sistemas
+Repositório do projeto da disciplina de Análise e Projeto de Sistemas
